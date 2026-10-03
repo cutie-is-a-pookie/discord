@@ -41,3 +41,4 @@ This repository is where I publish some of the Discord projects I'm working on.
 > **Build it. Test it. Break it. Fix it. Repeat. 🔥**
 
 Made with ❤️ by **Cutie :P**
+Please Star The **Repo**
